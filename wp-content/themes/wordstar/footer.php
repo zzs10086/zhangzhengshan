@@ -45,7 +45,7 @@
     }?>
     <p id="site-generator" class="site-info centertext footer-copy"> 
     <a href="<?php echo esc_url(home_url('/')); ?>" rel="home">&copy; <?php echo esc_html(date('Y'));?>&nbsp;<?php bloginfo('name'); ?>.</a> 
-我在你身边绕了一个圈，回到原点你却已在远方，思念悔恨萦绕一生。</p>
+我在你身边绕了一个圈，回到原点你却已在远方。</p>
 <p class="centertext footer-copy"><a href="http://www.miitbeian.gov.cn/" style="text-decoration:underline" target="_blank">苏ICP备16035736号-3</a>
  <script>
 (function(){
